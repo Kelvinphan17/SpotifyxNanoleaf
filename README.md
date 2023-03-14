@@ -1,5 +1,8 @@
-# Spotify x Nanoleaf
+# Spotify x Nanoleaf Controller
 A Spotify and Nanoleaf web application that pulls data from the currentply playing song on Spotify to modify Nanoleaf light panel effects. Based on the colours of the currently playing song's album image, this web application will pull the 6 dominant colours and display them as a wheel effect on your Nanoleaf light panels.
+
+<sub>Please note that this web application does not act as a player for Spotify, only a controller. Please use Spotify on any other supported devices before launching this web application. <br>
+This web application has only been tested on Nanoleaf light panels. There is no guarantee that this web application will work on other Nanoleaf products.</sub>
 
 ## Utilizes Spotify Web API and Nanoleaf Open API
 Makes calls to Spotify's Web API to:
